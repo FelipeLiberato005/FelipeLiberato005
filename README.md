@@ -1,23 +1,53 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+
+<h2 align="center">Hello World</h2>
+
+###
+
+<p align="left">My name is Felipe Liberato, from Sp, Brazil</p>
+<details>
+<summary>About Me 👨‍💻</summary>
+
+  - 💬 I'm 19 years old, I'm studying systems analysis and development.
+  - 💬 My favorite hobby is developing 2D games and creating pixel arts.
+</details>
+
+###
+
+<h2 align="left">Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeLiberato005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeLiberato005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="120" alt="languages graph"  />
 </div>
 
+###
 
-<p>
-  
-   Bem vindo 👋 Eu sou o Felipe!
-  
- - Sou estudante de Análise e Desenvolvimento de Sistema
-   
- - Também desenvolvo alguns jogos D2 ultilizando o GameMaker e desenho pixel art 
-</p>
+<h2 align="left">Skills</h2>
 
-<details>
-<summary>Para saber mais sobre mim</summary>
+###
 
-  - 💬 Tenho 19 anos, me encontro no Brasil, pais onde nasci. Tenho experiencia com as linguagens SQL, PHP, GML.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+</div>
 
-  - 💬 Meu passatempo favorito é desenvolver jogo, quando não estou desenvolvendo jogos, estou fazendo pixel art, para usar neles. Desenhar meus próprios personagens de jogos é algo que estou gostando de fazer, comecei a praticar recentemente.
-</details>
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="http://www.linkedin.com/in/felipe-liberato-araujo-8622a5314" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_felipeliberato123/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
