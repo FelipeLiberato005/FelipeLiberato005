@@ -19,5 +19,5 @@
 
   - 💬 Tenho 19 anos, me encontro no Brasil, pais onde nasci. Tenho experiencia com as linguagens SQL, PHP, GML.
 
-  - 💬 Meu passatempo favorito é desenvolver jogo, quando não estou desenvolvendo jogos, estou fazendo pixel art, para usar neles. Desenhar meus próprios personagens de jogos é algo que estou começando a gostar de fazer, comecei a praticar recentemente.
+  - 💬 Meu passatempo favorito é desenvolver jogo, quando não estou desenvolvendo jogos, estou fazendo pixel art, para usar neles. Desenhar meus próprios personagens de jogos é algo que estou gostando de fazer, comecei a praticar recentemente.
 </details>
