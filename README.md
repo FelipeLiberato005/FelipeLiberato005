@@ -1,16 +1,23 @@
-## Hi there 👋
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
-<!--
-**FelipeLiberato005/FelipeLiberato005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p>
+  
+   Bem vindo 👋 Eu sou o Felipe!
+  
+ - Sou estudante de Análise e Desenvolvimento de Sistema
+   
+ - Também desenvolvo alguns jogos D2 ultilizando o GameMaker e desenho pixel art 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>Para saber mais sobre mim</summary>
+
+  - 💬 Tenho 19 anos, me encontro no Brasil, pais onde nasci. Tenho experiencia com as linguagens SQL, PHP, GML.
+
+  - 💬 Meu passatempo favorito é desenvolver jogo, quando não estou desenvolvendo jogos, estou fazendo pixel art, para usar neles. Desenhar meus próprios personagens de jogos é algo que estou começando a gostar de fazer, comecei a praticar recentemente.
+</details>
