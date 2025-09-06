@@ -3,12 +3,12 @@
 
 ###
 
-<p align="left">My name is Felipe Liberato, from Sp, Brazil</p>
+<p align="left">Meu nome é Felipe</p>
 <details>
 <summary>About Me 👨‍💻</summary>
 
-  - 💬 I'm 19 years old, I'm studying systems analysis and development.
-  - 💬 My favorite hobby is developing 2D games and creating pixel arts.
+  - 💬 Tenho 20 anos, e sou estudante de Analise e Desenvolvimento de Sistemas.
+  - 💬 Meu passatempo é desenvolver jogos e criar pixel art.
 </details>
 
 ###
