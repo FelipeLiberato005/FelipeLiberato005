@@ -5,7 +5,7 @@
 
 <p align="left">Meu nome é Felipe</p>
 <details>
-<summary>About Me 👨‍💻</summary>
+<summary>Saiba mais 👨‍💻</summary>
 
   - 💬 Tenho 20 anos, e sou estudante de Analise e Desenvolvimento de Sistemas.
   - 💬 Meu passatempo é desenvolver jogos e criar pixel art.
